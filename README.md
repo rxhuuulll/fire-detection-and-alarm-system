@@ -2,9 +2,9 @@
   This is a Python project that detects fire and smoke using computer vision with OpenCV, and plays an alarm sound when detected. The data is taken from the computer's   webcam.
 
 ## Dependencies
-*OpenCV
-*NumPy
-*playsound
+* OpenCV
+* NumPy
+* playsound
 
 ## Installation
 1. Clone the repository: git clone https://github.com/username/fire-and-smoke-detection.git
