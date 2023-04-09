@@ -17,7 +17,7 @@
 4. Press 'q' to exit the script and stop the alarm.
 
 ## Credits
-*Project developed by Rahul Mk
-*Sound effects sourced from SoundBible
-*OpenCV and NumPy libraries used for computer vision functionalities.
-*Playsound library used for playing the alarm sound.
+* Project developed by Rahul Mk
+* Sound effects sourced from SoundBible
+* OpenCV and NumPy libraries used for computer vision functionalities.
+* Playsound library used for playing the alarm sound.
